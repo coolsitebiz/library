@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#book-entry {
+    padding: 1rem;
+    width: 20rem;
+}
+
+input {
+    margin: .2rem;
+}
+
